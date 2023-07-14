@@ -546,6 +546,14 @@ video {
   height: 2rem;
 }
 
+.w-0 {
+  width: 0px;
+}
+
+.w-full {
+  width: 100%;
+}
+
 .rounded-none {
   border-radius: 0px;
 }
@@ -605,4 +613,10 @@ video {
 .hover\:bg-violet-700:hover {
   --tw-bg-opacity: 1;
   background-color: rgb(109 40 217 / var(--tw-bg-opacity));
+}
+
+@media (min-width: 768px) {
+  .md\:w-auto {
+    width: auto;
+  }
 }
