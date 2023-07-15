@@ -2,7 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
+
+
 .button {
     @apply shadow  shadow-violet-400/20 bg-brand px-4 rounded h-8 text-white hover:bg-violet-700 
-    transition-colors ease-linear duration-75 w-full sm:w-auto focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-violet-900 animate-pulse;
+    transition-colors ease-linear duration-75 w-full sm:w-auto focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-violet-900 animate-pulse
+     group-hover:bg-black;
 }
+
