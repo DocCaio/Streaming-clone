@@ -3,9 +3,11 @@ module.exports = {
   content: ["./**/*.html"],
   theme: {
     extend: {
-      colors: {
-      brand:"#8257E6"
+      backgroundImage: {
+        'batman': "url('/img/batmab.jpg')",        
+        'footer-texture': "url('/img/footer-texture.png')",
       }
+    
     },
   },
   plugins: [],
