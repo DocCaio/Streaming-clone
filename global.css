@@ -4,9 +4,8 @@
 
 
 
-.button {
-    @apply shadow  shadow-violet-400/20 bg-brand px-8 rounded h-8 text-white hover:bg-violet-700 
-    transition-colors ease-linear duration-75 w-full sm:w-auto focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-violet-900 
-     group-hover:bg-black;
+img {
+     filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(125deg) brightness(103%) contrast(103%);
 }
+
 

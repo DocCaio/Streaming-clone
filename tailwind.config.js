@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        'batman': "url('/img/batmab.jpg')",        
+        'batman': "url('/img/batman.jpg')",        
         'footer-texture': "url('/img/footer-texture.png')",
       }
     
