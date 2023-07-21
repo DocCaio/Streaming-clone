@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+     background-image: url('/img/RRR/background.jpg');
+     background-size: cover;
+     background-position: center;
+     background-repeat: no-repeat;
+     overflow-x: hidden;
+     
+}
+
+#img-logo {
+     filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(125deg) brightness(103%) contrast(103%);
+}
+
+
+button:hover {
+     color: rgba(255, 255, 0, 0.624);
+     transition: 0.5s;
+
+}
+
