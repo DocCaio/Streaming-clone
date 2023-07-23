@@ -24,6 +24,11 @@ button:hover {
       background-color: #4710C1;
      }
 
+     #sec-bnt:hover {
+          color: white;
+          transition: 0.5s;
+     }
+
 
 
 
