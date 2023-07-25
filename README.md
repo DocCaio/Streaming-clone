@@ -15,6 +15,9 @@
 | :fire: linkedin     | https://www.linkedin.com/in/caio-martins-2ba009207/
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
+![](https://github.com/DocCaio/Streaming-clone/blob/main/img/bat.png)
+
+
 
 
 ## Project detail
