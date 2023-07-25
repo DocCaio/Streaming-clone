@@ -11,7 +11,7 @@
 | -------------  | --- |
 | :sparkles: Nome        | **Personal portifolio**
 | :label: Tecnologias | Html Css JavaScript Tailwind Node.Js
-| :rocket: URL         |/
+| :rocket: URL         |https://streaming-clone-2sqepqrbq-doccaio.vercel.app/index.html/
 | :fire: linkedin     | https://www.linkedin.com/in/caio-martins-2ba009207/
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
