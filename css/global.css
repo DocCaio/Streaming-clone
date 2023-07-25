@@ -21,7 +21,10 @@ button:hover {
 
 }
      #sec-bnt{
-      background-color: #4710C1;
+          border-radius: 26px;
+          background: var(--blue-alt, linear-gradient(90deg, #4710C1 0%, #7857FF 50.90%, #819BFD 100%));
+          box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+          
      }
 
      #sec-bnt:hover {
@@ -29,6 +32,7 @@ button:hover {
           transition: 0.5s;
      }
 
+    
 
 
 
