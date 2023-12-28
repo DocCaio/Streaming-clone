@@ -4,7 +4,7 @@
  
  <h2>Tech used </h2>
  
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,javascript,nodejs)](https://skillicons.dev)
 
 
 | :placard: Vitrine.Dev | https://cursos.alura.com.br/vitrinedev/CaioMiB |
